@@ -27,3 +27,5 @@ salary_bin -
 key_skills_from_key_skills_field - знание программ (ключевые навыки)  
 hard_skills_from_description - hard навыки из описания  
 soft_skills_from_description - soft навыки из описания  
+
+**Презентация** https://disk.yandex.ru/i/Bir-8F_Iq5JR1A
